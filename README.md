@@ -5,8 +5,8 @@
 ## 若您觉得有用，不妨点个Star。
 ## 在这里，将不需要使用ed2k进行解析，提升了下载速度和稳定性，降低技术门槛。
 ## 截图示例
-<img width="429" alt="截屏20<img width="984" alt="截屏2022-02-14 下午10 26 36" src="https://user-images.githubusercontent.com/91834755/153882575-8b41e333-f385-4971-88cd-738f1358cba9.png">
-22-02-14 下午10 24 06" src="https://user-images.githubusercontent.com/91834755/153882264-8eb140f7-30ea-4fcb-9d03-9e60e99a0c72.png">
+<img width="984" alt="截屏2022-02-14 下午10 26 36" src="https://user-images.githubusercontent.com/91834755/153882653-fd46f64d-cf0f-49b0-8fd2-6d2c05af0d67.png">
+<img width="429" alt="截屏2022-02-14 下午10 24 06" src="https://user-images.githubusercontent.com/91834755/153882676-a68c2ef5-2a37-4231-bae7-5adcc0f31df8.png">
 
 ### 64Bit System：
 #### Windows10: 
