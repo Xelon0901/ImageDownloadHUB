@@ -6,3 +6,8 @@
 ### 64Bit System：
 #### Windows10: 
 ##### 1909：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EbCPhBlgbRVGqdjW9cirw3gBKXfACpJRNL1f4A2wXSMDkA?e=n5eVkT)  
+#### Windows8.1:
+##### FINAL：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EQgIvn9C4bhFnLNoLQzJUcUBb5juwwwRSQUfAagrE6i6XQ?e=M8u5xj)
+#### Windows7:
+##### FINAL：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EZ2vWG58LdZGrdcGfYyw23cBb8lC5W3DtEt65MZRquHDmg?e=vmfF54)
+
