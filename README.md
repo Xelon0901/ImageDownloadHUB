@@ -4,7 +4,8 @@
 ## 本项目借助OneDrive进行提供存储下载服务，本站无法保证您是否下载成功或者速度，请自行合理使用工具来确保你的下载稳定性及速度。
 ## 若您觉得有用，不妨点个Star。
 ## 在这里，将不需要使用ed2k进行解析，提升了下载速度和稳定性，降低技术门槛。
-# 截图<img width="429" alt="截屏2022-02-14 下午10 24 06" src="https://user-images.githubusercontent.com/91834755/153882264-8eb140f7-30ea-4fcb-9d03-9e60e99a0c72.png">
+# 截图
+<img width="429" alt="截屏2022-02-14 下午10 24 06" src="https://user-images.githubusercontent.com/91834755/153882264-8eb140f7-30ea-4fcb-9d03-9e60e99a0c72.png">
 
 
 
