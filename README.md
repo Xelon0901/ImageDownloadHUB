@@ -11,7 +11,7 @@
 ### 64Bit System：
 #### Windows10: 
 ##### 1909：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EbCPhBlgbRVGqdjW9cirw3gBKXfACpJRNL1f4A2wXSMDkA?e=n5eVkT)  
-##### - LTSC长期服务版
+#### Windows10 for LTSC长期服务版
 ##### 2019:[下载](https://xwthv-my.sharepoint.com/:u:/r/personal/xelon_xwthv_onmicrosoft_com/Documents/System%20image/Windows/64Bit%20System/Windows10%20LTSC%202019%20x64.iso?csf=1&web=1&e=cLIVwK)
 ##### 2021:[下载]
 #### Windows8.1:
