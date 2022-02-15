@@ -42,7 +42,7 @@
 ### WEPE:[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EfE79-PyWRhNiE3EqaUzYPcB0ZN27F2GzKjH4Pxawm22mA?e=IXAZG1)
 
 ## *Linux 
-## x64
+### x64
 ### Ubuntu：
 ##### 21.10 [下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EQqT_DiTqwREmsV6UwIR7joBiYCo5fYifxZNWx266swepA?e=Ad6Wdj)
 
