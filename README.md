@@ -41,8 +41,6 @@
 ## *WindowsPE for USBTools
 ### WEPE:[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EfE79-PyWRhNiE3EqaUzYPcB0ZN27F2GzKjH4Pxawm22mA?e=IXAZG1)
 
-## *Windows11以及更多版本将在未来版本更新！
-
 ## *Linux 
 ## x64
 ### Ubuntu：
