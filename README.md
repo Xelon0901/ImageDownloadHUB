@@ -7,7 +7,7 @@
 ### 截图示例
 <img width="984" alt="截屏2022-02-14 下午10 26 36" src="https://user-images.githubusercontent.com/91834755/153882653-fd46f64d-cf0f-49b0-8fd2-6d2c05af0d67.png">
 <img width="429" alt="截屏2022-02-14 下午10 24 06" src="https://user-images.githubusercontent.com/91834755/153882676-a68c2ef5-2a37-4231-bae7-5adcc0f31df8.png">
-## ！32位系统若无大版本更新变动，我们不再收录。
+## ** 32位系统若无大版本更新变动，我们不再收录。
 
 ## 64Bit System：
 #### Windows11:
