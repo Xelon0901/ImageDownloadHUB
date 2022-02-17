@@ -12,12 +12,12 @@
 
 ## 64Bit System：
 #### Windows11:
-##### 21H2：[下载](https://xwthv-my.sharepoint.com/:u:/r/personal/xelon_xwthv_onmicrosoft_com/Documents/System%20image/Windows/64Bit%20System/Windows11%2021H2%20x64.iso?csf=1&web=1&e=uwGnRc)
+##### 21H2：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EYaWMjpDr7BNovdgJaXzrIYBeVd45w-YNGYJ3qL_D62eYQ?e=xv6R5g)
 #### Windows10: 
 ##### 1909：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EbCPhBlgbRVGqdjW9cirw3gBKXfACpJRNL1f4A2wXSMDkA?e=n5eVkT) 
-##### 1809：[下载](https://xwthv-my.sharepoint.com/:u:/r/personal/xelon_xwthv_onmicrosoft_com/Documents/System%20image/Windows/64Bit%20System/Windows10%201809%20x64.iso?csf=1&web=1&e=1hBGCV)
+##### 1809：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EWVBTYpmRrtJmb1PIem-MUkBcSbFSMLiW_hwA94c41JX0g?e=K3IOZT)
 #### Windows10 for LTSC长期服务版
-##### 2019:[下载](https://xwthv-my.sharepoint.com/:u:/r/personal/xelon_xwthv_onmicrosoft_com/Documents/System%20image/Windows/64Bit%20System/Windows10%20LTSC%202019%20x64.iso?csf=1&web=1&e=cLIVwK)
+##### 2019:[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EZeViJdQU8BGvEzghrSJ9-kBTmeCg4TozQzYejltbL8-uw?e=4ZQgRT)
 ##### 2021:[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EUv6Kbt8ZvhMnq-4keI11pYBj5SVhk5tb-FCfTqBY2qbqw?e=FDZZ3K)
 #### Windows8.1:
 ##### FINAL：[下载](https://xwthv-my.sharepoint.com/:u:/g/personal/xelon_xwthv_onmicrosoft_com/EQgIvn9C4bhFnLNoLQzJUcUBb5juwwwRSQUfAagrE6i6XQ?e=M8u5xj)
